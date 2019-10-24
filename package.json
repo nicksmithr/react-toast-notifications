@@ -21,6 +21,7 @@
     "notifications"
   ],
   "scripts": {
+    "install": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --mode development",
     "prettier_lint": "prettier --list-different \"**/*.js\"",

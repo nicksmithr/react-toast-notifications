@@ -8,22 +8,22 @@ export const R400 = '#DE350B';
 export const R500 = '#BF2600';
 
 // Yellows
-export const Y50 = '#FFFAE6';
-export const Y75 = '#FFF0B3';
-export const Y100 = '#FFE380';
-export const Y200 = '#FFC400';
-export const Y300 = '#FFAB00';
-export const Y400 = '#FF991F';
-export const Y500 = '#FF8B00';
+export const Y50 = '#f9b6aa';
+export const Y75 = '#f7a698';
+export const Y100 = '#f99888';
+export const Y200 = '#fa8774';
+export const Y300 = '#f7735d';
+export const Y400 = '#f76148';
+export const Y500 = '#fb5337';
 
 // Greens
-export const G50 = '#E3FCEF';
-export const G75 = '#ABF5D1';
-export const G100 = '#79F2C0';
-export const G200 = '#57D9A3';
-export const G300 = '#36B37E';
-export const G400 = '#00875A';
-export const G500 = '#006644';
+export const G50 = '#eff7e4';
+export const G75 = '#e7f5d4';
+export const G100 = '#e4f4cd';
+export const G200 = '#dbeebe';
+export const G300 = '#cfe7ab';
+export const G400 = '#c7e29d';
+export const G500 = '#b9d888';
 
 // Blues
 export const B50 = '#DEEBFF';
